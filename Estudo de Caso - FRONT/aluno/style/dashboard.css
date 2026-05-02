@@ -298,6 +298,13 @@ h4 {
     color: white;
 }
 
+a {text-decoration: none;}
+
+.saber-mais{
+    padding: 3.5rem;
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     .greeting {
         flex-direction: column;
@@ -319,3 +326,4 @@ h4 {
         justify-content: center;
     }
 }
+
